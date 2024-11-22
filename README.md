@@ -6,7 +6,7 @@ Inscreva-se para receber os conteúdos no seu email:
 
 https://devsuperior.com.br
 
-    ATENÇÃO: os conteúdos ficarão disponíveis somente até domingo. Então organize-se, e bora pra cima! 
+    ATENÇÃO: os conteúdos deverão ser desenvolvidos até domingo. Então organize-se, e bora pra cima! 
 
 **2. Tem alguma dúvida?**
 
